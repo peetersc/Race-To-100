@@ -1,0 +1,8 @@
+Cameron	103	9	18	2018	
+Tyler	103	9	18	2018	
+Cameron	84	9	18	2018	
+Computer	60	9	18	2018	
+Computer	24	9	18	2018	
+1	11	9	18	2018	
+1	0	9	18	2018	
+Computer	0	9	18	2018	
