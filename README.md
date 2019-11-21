@@ -5,3 +5,9 @@ Race to 100 game
 - Improvements:
   The data is stored in vectors and stores information in text files. 
   The data should be stored in lists, sturcts, or other more efficient data structures than vectors.
+
+Start Up:
+![Image description](Race_Example.png)
+
+Finish:
+![Image description](Race_Example_Part2.png)
