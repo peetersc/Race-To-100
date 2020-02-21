@@ -4,7 +4,6 @@ Race to 100 game
 - Implemented PvP and computer mode
 - Improvements:
   The data is stored in vectors and stores information in text files. 
-  The data should be stored in lists, sturcts, or other more efficient data structures than vectors.
 
 Start Up:
 ![Image description](Race_Example.png)
